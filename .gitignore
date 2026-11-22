@@ -1,0 +1,35 @@
+# Build results
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+*.user
+*.suo
+*.userprefs
+
+# Visual Studio
+.vs/
+.idea/
+*.user
+*.userosscache
+
+# NuGet packages (usually restored, not committed)
+packages/
+*.nupkg
+
+# Local config / logs
+settings.json
+*.log
+.dsh-meow/
+
+# Publish profiles (local)
+Properties/PublishProfiles/
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Runtime artifacts
+*.cache
+*.pdb
